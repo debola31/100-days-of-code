@@ -24,3 +24,9 @@ My goal for this 100 days of code are to:
 **Today's Progress**: This day I finished Chapter 2 of the Hands-on Machine Learning Book. I set up my Kaggle Account Profile and wrote a test script to automate downloading data from Kaggle using their command line API.
 
 **Thoughts**: It's interesting that kaggle has an API to automatically download data. It's mentioned in the machine learniatng book that you should automate as many steps of the ML process as you can including data gathering so it's nice to see their supporting best practices. 
+
+### Day 3: September 18, 2019
+
+**Today's Progress**: Today I continued tyring to apply the steps in chapter 2 of the hands on ml book to the kaggle dataset.
+
+**Thoughts**: I'm a little dissapointed at how slow my progress was. I tried running models and training them via jupyter notebooks but I couldn't tell when jupyter notebooks where frozen and how to restart them causing me to waste some time. I'd like to finish the kaggle dataset before the end of this week and move onto chapter 3. 
