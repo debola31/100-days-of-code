@@ -30,3 +30,12 @@ My goal for this 100 days of code are to:
 **Today's Progress**: Today I continued tyring to apply the steps in chapter 2 of the hands on ml book to the kaggle dataset.
 
 **Thoughts**: I'm a little dissapointed at how slow my progress was. I tried running models and training them via jupyter notebooks but I couldn't tell when jupyter notebooks where frozen and how to restart them causing me to waste some time. I'd like to finish the kaggle dataset before the end of this week and move onto chapter 3. 
+
+
+### Day 4: September 19, 2019
+
+**Today's Progress**: Continued on the hands on machine learning book and tried evaluating my results for the categorical beginner kaggle competition. Also continuted my C++ refresher on sololearn.com
+
+**Thoughts**: I'm getting more familiar with the quirks of jupyter notebooks. It's hard to tell the difference between when a page is frozen or a code function is just taking too long to run. I'm also looking forward to finishing this kaggle competition so I can move on to more chapters and also finishing this C++ refresher course.
+
+**Link(s) to work**: [Hands On ML](https://github.com/debola31/handson-ml)
