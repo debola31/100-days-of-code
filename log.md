@@ -39,3 +39,10 @@ My goal for this 100 days of code are to:
 **Thoughts**: I'm getting more familiar with the quirks of jupyter notebooks. It's hard to tell the difference between when a page is frozen or a code function is just taking too long to run. I'm also looking forward to finishing this kaggle competition so I can move on to more chapters and also finishing this C++ refresher course.
 
 **Link(s) to work**: [Hands On ML](https://github.com/debola31/handson-ml)
+
+
+### Day 6: September 21, 2019
+
+**Today's Progress**: Continuted my C++ refresher on sololearn.com
+
+**Thoughts**: I missed my first day for this challenge. I definitely need to improve on my motivation & consistency.
