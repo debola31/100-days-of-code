@@ -46,3 +46,10 @@ My goal for this 100 days of code are to:
 **Today's Progress**: Continuted my C++ refresher on sololearn.com
 
 **Thoughts**: I missed my first day for this challenge. I definitely need to improve on my motivation & consistency.
+
+
+### Day 7: September 22, 2019
+
+**Today's Progress**: Continuted my C++ refresher on sololearn.com
+
+**Thoughts**: I definitely need to improve on my motivation & consistency. Didn't do enough this weekend. Need to make more time during the week
