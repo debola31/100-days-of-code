@@ -69,3 +69,9 @@ My goal for this 100 days of code are to:
 ### Day 10: September 25, 2019
 
 **Today's Progress**: Started chapter 3 of the hands on machine learning book. 
+
+### Day 11: September 26, 2019
+
+**Today's Progress**: Continued chapter 3 of the deep learning book. Started working on setting up ros on my linux desktop.
+
+**Thoughts**: I still haven't been able to finish the simple kaggle competition on categorical classifiers. I keep seeing bugs in my code and I have no idea what to do becaues I don't understand the issue too well.
